@@ -1,10 +1,13 @@
+import ThemeToggle from "./Components/ThemeToggle"
 
 
 function App() {
 
   return (
     <>
-    <h1 className="text-amber-200">hello world</h1>
+     <ThemeToggle/>
+       
+    
     </>
   )
 }
